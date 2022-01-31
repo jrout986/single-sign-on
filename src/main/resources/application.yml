@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: single-sign-on
+server:
+  port: 8085
